@@ -1,0 +1,5 @@
+here are my ouput files
+fib_by_matrix
+  fib_ny_matrix [nth fib]
+  nth fibonachi number as output
+*as of now beacuse of aritmetic overflow this fib works for upto 93rd fibonachi number
